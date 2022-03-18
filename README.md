@@ -1,5 +1,7 @@
-# Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+# Hi there 👋 , I'm Muhammad Iqbal Ramadhan!
+My name is Muhammad Iqbal Ramadhan, I Born in Depok City on October 31, 2003
+
+I have a leadership spirit and a high spirit to achieve the goal, I am also used to trusted and chosen as a group leader, I am able to work in a team, easy to adapt, and like to learn new things.
 
 ### Tools:
 <p>
